@@ -1,0 +1,12 @@
+Neben Feed-Forward Netzwerken gibt es auch Recurrent Netzwerke (Rückkopplung).
+Das menschliche Gehinr besteht aus 86 Mia. Nervenzellen. Dort sind der "Input" die Dendriten und die Gewichtung übernehmen die Synapsen.
+Das Alles oder Nichts Gessetz kann durch die Aktivierungsfunktion beschrieben werden, die z.B. eine Heaviside Funktion sein kann, oft eingesetzt wird aber die sigmoide Funktion.
+
+Schwache KI: Konkrete Anwendung
+Starke KI: Allgemein, wie Mensch
+
+Überwachtes Lernen: supervised
+Unüberwachtes Lernen: unsupervised
+Verstärktes Lernen: reinforced
+
+
